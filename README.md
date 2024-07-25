@@ -7,14 +7,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&color=F3BAC4&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+Visitor!+👾;+I'm+Laila+van+Rooijen!" alt="Typing SVG" />
   </a>
 </h1>
+<hr>
+<h3 align="center">A wayfaring stranger traveling through this world of code</h3>
+<hr>
+<br>
+<br>
 
 <div align="center">
-  <a href="mailto:Laila.van.Rooijen@outlook.com"><img src="https://github.com/user-attachments/assets/579b2c67-5fd5-48f1-9417-62dd067f0b7e" width="200" alt="Arecibo_message svg"/></a>
+  <a href="mailto:Laila.van.Rooijen@outlook.com"><img src="https://github.com/user-attachments/assets/579b2c67-5fd5-48f1-9417-62dd067f0b7e" width="100%" alt="Arecibo_message svg"/></a>
 </div>
-<h3 align="center">A wayfaring stranger, traveling through this world of code</h3>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/609d6efa-d80c-4e81-b69b-8954ab2aaea7" alt="MasterHead" width="100%"/>
-</div>
+
+
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -47,11 +50,16 @@
 </p>
 
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lailavanrooijen&show_icons=true&locale=en&layout=compact" alt="lailavanrooijen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lailavanrooijen&show_icons=true&locale=en" alt="lailavanrooijen" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lailavanrooijen&" alt="lailavanrooijen" /></p>
+
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/609d6efa-d80c-4e81-b69b-8954ab2aaea7" alt="MasterHead" width="100%"/>
+</div>
 
 
  
