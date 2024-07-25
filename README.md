@@ -9,7 +9,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/579b2c67-5fd5-48f1-9417-62dd067f0b7e" width="200" alt="Arecibo_message svg"/>
+  <a href="mailto:Laila.van.Rooijen@outlook.com"><img src="https://github.com/user-attachments/assets/579b2c67-5fd5-48f1-9417-62dd067f0b7e" width="200" alt="Arecibo_message svg"/></a>
 </div>
 <h3 align="center">A wayfaring stranger, traveling through this world of code</h3>
 <div align="center">
