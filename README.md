@@ -46,7 +46,13 @@
   </a> 
 </p>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lailavanrooijen&" alt="lailavanrooijen" />
-  <img src="https://github.com/user-attachments/assets/4c128c63-e47c-4542-a163-8cbcbe89e689" alt="miketoob-cozy" width="340" />
-</div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lailavanrooijen&show_icons=true&locale=en&layout=compact" alt="lailavanrooijen" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lailavanrooijen&show_icons=true&locale=en" alt="lailavanrooijen" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lailavanrooijen&" alt="lailavanrooijen" /></p>
+
+
+ 
+
