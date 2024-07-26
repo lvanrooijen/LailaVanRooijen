@@ -3,13 +3,7 @@
 </div>
 <br>
 <br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&color=006AFF&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+Visitor!+👽;+I+am+Laila+van+Rooijen!" alt="Typing SVG" />
-  </a>
-
-
-**`a wayfaring stranger traveling through this world of code`**
-<hr>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=25&duration=3000&pause=500&color=006AFF&width=750&height=100&lines=Hello+visitor+%F0%9F%91%BD!;I+am+Laila+van+Rooijen;a+wayfaring+stranger+;%F0%9F%9B%B8++traveling+through+this+world+of+code" alt="Typing SVG" /></a>
 
 ### Languages and tools
 
