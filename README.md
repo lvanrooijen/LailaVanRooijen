@@ -5,7 +5,7 @@
 <br>
 
 
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&size=34&duration=2500&pause=750&width=435&lines=Hey+Visitor+%F0%9F%91%BE;I+am+Laila+van+Rooijen" alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&size=34&duration=2500&pause=750&width=435&lines=Hello+visitor+%F0%9F%91%BE;I+am+Laila+van+Rooijen" alt="Typing SVG" /></a>
 
 ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=100&size=34&duration=2500&pause=750&repeat=false&width=435&lines=Languages+and+tools" alt="Typing SVG" /></a>
 
