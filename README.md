@@ -3,31 +3,31 @@
 </div>
 <br>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=25&duration=3000&pause=500&color=006AFF&width=750&height=100&lines=Hello+visitor+%F0%9F%91%BD!;I+am+Laila+van+Rooijen;a+wayfaring+stranger+;%F0%9F%9B%B8++traveling+through+this+world+of+code" alt="Typing SVG" /></a>
 
-### Languages and tools
+
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&size=34&duration=2500&pause=750&width=435&lines=Hey+Visitor+%F0%9F%91%BE;I+am+Laila+van+Rooijen" alt="Typing SVG" /></a>
+
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=100&size=34&duration=2500&pause=750&repeat=false&width=435&lines=Languages+and+tools" alt="Typing SVG" /></a>
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lailavanrooijen&theme=transparent&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lailavanrooijen&theme=ambient_gradient&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,spring,react)](https://skillicons.dev)
 
 <hr>
 
-### Stats
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=100&size=34&duration=2500&pause=750&repeat=false&width=435&lines=Statistics" alt="Typing SVG" /></a>
+
+<hr>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LailaVanRooijen&theme=ambient-gradient" alt="GitHub Streak" /></a>
 
 <hr>
 
-[![Laila's GitHub stats](https://github-readme-stats.vercel.app/api?username=lailavanrooijen&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr>
-
-### Contact 
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=100&size=34&duration=2500&pause=750&repeat=false&width=435&lines=How+to+contact+me" alt="Typing SVG" /></a>
 
 <hr>
 <div align="center">
   <a href="mailto:Laila.van.Rooijen@outlook.com"><img src="https://github.com/user-attachments/assets/579b2c67-5fd5-48f1-9417-62dd067f0b7e" width="100%" alt="Arecibo_message svg"/></a>
 </div>
- 
 
