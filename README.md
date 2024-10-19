@@ -26,7 +26,7 @@
 
 ### Currently working on
 
-- Personal Project --> Dhakya
+- Personal Project --> Dhakiya
 - Learning SQL
 
 <hr>
