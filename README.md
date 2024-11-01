@@ -36,5 +36,3 @@
 <div align="center">
   <a href="mailto:Laila.van.Rooijen@outlook.com"><img src="https://github.com/user-attachments/assets/579b2c67-5fd5-48f1-9417-62dd067f0b7e" width="100%" alt="Arecibo_message svg"/></a>
 </div>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315blp57de752w3wz7iw5vpik7uq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ff80c0)](https://github.com/kittinan/spotify-github-profile)
