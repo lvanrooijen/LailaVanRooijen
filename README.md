@@ -27,7 +27,6 @@
 ### Currently working on
 
 - Personal Project
-- Learning SQL
 
 <hr>
 
